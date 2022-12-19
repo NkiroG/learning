@@ -1,3 +1,3 @@
-#Learning
+# Learning
 
-I want to learn well. 
+I want to learn well! 
